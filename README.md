@@ -7,7 +7,7 @@ To understand how the student's performance is affected by the other variables g
 - Univariate Analysis
 - Bivariate Analysis
 
-### Summary:
+### What was done?:
 1. Insights in the dataset were analyzed.
 2. Connection between the variables is understood and the underlying structure is uncovered.
 3. Import Variables are extracted.
@@ -15,3 +15,5 @@ To understand how the student's performance is affected by the other variables g
 5. Underlying assumptions are tested.
 6. Insights are provided with Suitable Graphs and Visualizations.
 7. Inferences are written with supporting Analysis and Visualizations.
+
+#### Dataset Used: StudentsPerformance(available in the repository)
