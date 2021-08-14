@@ -7,7 +7,7 @@ To understand how the student's performance is affected by the other variables g
 - Univariate Analysis
 - Bivariate Analysis
 
-### What was done in the project?
+### What was done in this project?
 1. Insights in the dataset were analyzed.
 2. Connection between the variables is understood and the underlying structure is uncovered.
 3. Import Variables are extracted.
